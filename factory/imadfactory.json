@@ -1,0 +1,9 @@
+{
+	"name": "imadfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "351b5ff3-c029-4798-ac17-e33aa4cfdfd3",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
